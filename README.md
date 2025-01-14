@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index, follow">
+    <title>Página de Teste</title>
+</head>
+<body>
+    <h1>Página Web</h1>
+    <p>Criado por Ana Vitória Nunes Pereira Laureano.</p>
+    <p>Seja bem-vindo(a) a um teste em uma página HTML.</p>
+    <p>Conhecendo HTML e hospedando uma página na WEB.</p>
+    <h4>Este é o fim!</h4>
+</body>
+</html>
+
